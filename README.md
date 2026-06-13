@@ -61,8 +61,6 @@
   <img src="https://raw.githubusercontent.com/GV-Puneeth/GV-Puneeth/output/github-contribution-grid-snake.svg" />
 </p>
 
----
-
 ## 👀 Profile Views
 
 <p align="center">
@@ -71,4 +69,6 @@
 
 ---
 
-<h3 align="center">🚀 Turning Ideas into Reality, One Line of Code at a Time 🚀</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=100&pause=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=⚡+Code+•+Learn+•+Build+•+Repeat+⚡" />
+</p>
