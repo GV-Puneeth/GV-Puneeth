@@ -1,7 +1,7 @@
-<h1 align="center">⚡ GV Puneeth</h1>
+<h1 align="center">  👋 GV Puneeth</h1>
 
 <h3 align="center">
-Computer Science Engineering Student • Full Stack Developer • Flutter Developer
+Computer Science Engineering Student • Full Stack Developer • 
 </h3>
 
 <p align="center">
