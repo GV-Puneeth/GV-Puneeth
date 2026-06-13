@@ -1,84 +1,56 @@
-<div align="center">
+<!-- ===================== ANIMATED HEADER ===================== -->
 
-# Hi 👋, it's GV Puneeth
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+GV+Puneeth;Computer+Science+Engineering+Student;Full+Stack+Developer+🚀;Learning+Flutter+%26+Dart+📱;Always+Learning+🔥" />
+</h1>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=750&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;Flutter+Developer;Building+Real+World+Applications;Always+Learning+New+Technologies" />
+<h3 align="center">Computer Science Engineering Student | Full Stack Developer | Tech Enthusiast</h3>
+
+<p align="center">
+  Passionate about building real-world applications and continuously improving through projects.
 </p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=GV-Puneeth&label=Profile%20Views&color=00F7FF&style=flat" />
-</p>
-
-</div>
 
 ---
-
-<table align="center" width="100%">
-<tr>
-
-<td width="55%" valign="top">
 
 ## 🚀 About Me
 
-I'm a **Computer Science Engineering Student** passionate about building scalable software solutions and solving real-world problems through technology.
-
-- 💻 Full Stack Developer
-- 📱 Flutter Mobile App Developer
+- 💻 Computer Science Engineering Student
+- 🌐 Full Stack Developer
+- 📱 Learning Flutter & Dart
 - ☕ Java Developer
 - 🐍 Python Programmer
 - ⚛️ Exploring React & Node.js
-- 🔥 Building projects and continuously improving my skills
+- 🎯 Focused on building impactful real-world projects
 
-### 🌐 Connect With Me
+---
 
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/gv-puneeth" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+</p>
 
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+---
 
-</td>
+## 💻 Tech Stack
 
-<td width="45%" valign="top">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,cpp,python,flutter,dart,firebase,react,nodejs,git,github,vscode" />
+</p>
+
+---
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=GV-Puneeth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,flutter,firebase,react,nodejs,git,github,vscode" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=GV-Puneeth&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=GV-Puneeth&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-## ⚡ Coding Analytics
-
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GV-Puneeth&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GV-Puneeth&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GV-Puneeth&theme=tokyo-night" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GV-Puneeth&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -91,10 +63,12 @@ I'm a **Computer Science Engineering Student** passionate about building scalabl
 
 ---
 
-<div align="center">
+## 👀 Profile Views
 
-### 💡 Quote of the Day
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GV-Puneeth&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
 
-*"First, solve the problem. Then, write the code."* — John Johnson
+---
 
-</div>
+<h3 align="center">🚀 Turning Ideas into Reality, One Line of Code at a Time 🚀</h3>
