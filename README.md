@@ -1,9 +1,7 @@
-<h1 align="center">  👋 GV Puneeth</h1>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&duration=150&pause=2000&color=00F7FF&center=true&vCenter=true&width=700&lines=GV+Puneeth" />
+</p>
 
 <h3 align="center">
-Computer Science Engineering Student • Full Stack Developer • 
+Computer Science Engineering Student • Full Stack Developer
 </h3>
-
-<p align="center">
-Building scalable applications one commit at a time 🚀
-</p>
